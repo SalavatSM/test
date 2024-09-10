@@ -35,7 +35,8 @@ INSTALLED_APPS += [
 # apps
 INSTALLED_APPS += [
     'api',
-    'main',
+    'common',
+    'breaks',
 ]
 
 # Packages required after apps
