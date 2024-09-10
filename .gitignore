@@ -6,6 +6,17 @@ __pycache__
 db.sqlite3
 media
 
+# Static
+/static/
+/staticfiles/
+/dist/
+/build/
+/static/CACHE/
+
+# Media
+/media/
+/media/cache/
+
 # Backup files
 *.bak
 
@@ -133,3 +144,5 @@ GitHub.sublime-settings
 
 # History
 .history
+
+*/migrations/
